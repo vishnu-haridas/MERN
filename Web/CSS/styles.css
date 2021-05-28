@@ -1,0 +1,56 @@
+
+        h1 {
+            color: darkblue;
+            font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+            font-size: 35px;
+
+        }
+
+        a {
+            background-color: darkseagreen;
+
+        }
+
+        a:hover {
+            background-color: darkslateblue;
+            font: bolder;
+            font-family: sans-serif;
+            color: white;
+
+        }
+        .mydiv{
+            background-color: wheat;
+            width: 75%;
+            height: 100px;
+        }
+        #p1{
+            color: tomato;
+            width: max-content;
+        }
+
+        /* this is a CSS comment*/
+   .tdata{
+       background-color: chartreuse;
+   }
+   
+   .tdata:hover{
+       background-color: grey;
+   }
+   table{
+    border-collapse: collapse;
+    background-color: khaki;
+    text-align: center;
+     width: 100%;
+
+   }
+   .bord{
+    
+   }
+
+   .rows{
+       background-color: ivory;
+
+   }
+   .rows:hover:nth-child(odd){
+       background-color: khaki;
+   }
